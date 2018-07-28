@@ -10,5 +10,3 @@ if mool:
     print('hello')
 else:
     print('world')
-else:
-    print('hello')
