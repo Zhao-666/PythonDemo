@@ -1,3 +1,5 @@
-import c3 as a
+from c3 import account, password
 
-print(a.account)
+print(account)
+print(1)
+print(password)
