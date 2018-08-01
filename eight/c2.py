@@ -1,0 +1,3 @@
+
+def funcname(param):
+    pass
